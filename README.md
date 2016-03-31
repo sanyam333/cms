@@ -7,7 +7,7 @@ Cloning the project
 Use Command Prompt to navigate to the folder where you want the project:
 cd <your folder path>
 Run the git clone command:
-git clone https://github.com/ms-iot/Facial-Recognition-Door.git
+git clone 
 
-The step-by-step instruction for building this project can be found on https://microsoft.hackster.io/en-US/windows-iot/windows-iot-facial-recognition-door-e087ce
+The step-by-step instruction for building this project can be found on 
 
