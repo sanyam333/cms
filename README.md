@@ -9,5 +9,5 @@ cd <your folder path>
 Run the git clone command:
 git clone https://github.com/sanyam333/cms.git
 
-The step-by-step instruction for building this project can be found on 
+The step-by-step instruction for building this project can be found on https://www.hackster.io/cms-lifehack/iot-based-coffee-management-system-cms-311569
 
