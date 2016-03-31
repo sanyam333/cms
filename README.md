@@ -7,7 +7,7 @@ Cloning the project
 Use Command Prompt to navigate to the folder where you want the project:
 cd <your folder path>
 Run the git clone command:
-git clone 
+git clone https://github.com/sanyam333/cms.git
 
 The step-by-step instruction for building this project can be found on 
 
